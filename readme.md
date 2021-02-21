@@ -1,8 +1,11 @@
-#LearningGit
+#L earningGit
 
-#What is this repository?
+# What is this repository?
+
 ♦ A place for me to push and pull useless files
+
 ♦ A way for me to learn how to use git and github
+
 ♦ A repository that is completely useless for everyone else.
 
 ## But why?
