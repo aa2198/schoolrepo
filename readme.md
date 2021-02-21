@@ -1,4 +1,4 @@
-#L earningGit
+# LearningGit
 
 # What is this repository?
 
